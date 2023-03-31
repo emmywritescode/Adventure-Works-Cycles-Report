@@ -1,1 +1,2 @@
-# Adventure-Works-Cycles-Report
+# Adventure Works Cycles Report
+![](intro.png)
