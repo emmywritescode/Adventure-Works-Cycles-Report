@@ -33,4 +33,13 @@ The Adventure Works 2019 database was used for this project. This fictional comp
 The database was imported into SQL Server Management Studio and then queried to obtain the needed data from the schemas and tables. The following schemas and Tables were queried: 
 Sales.SalesOrderheader, Sales.SalesOrderDetail, Sales.Customer, Sales.SalesTerritory, Purchasing.ShipMethod, Production.Product, Production.ProductCategory, and Production.ProductSubcategory.
 
-Here's the link to my SQL query.
+Here's the link to my SQL [query](https://github.com/emmywritescode/SQL-Queries/blob/main/Adventure%20Works%20Cycles%202019.sql).
+
+## Modelling
+The data was modelled with the appropriate primary key and foreign key relationships from the tables. Overall, there are three (3) dimensions tables and two (2) facts tables. Two tables created named ‘Calendar’ and ‘CustomerFirstOrders’ tables were generated using New Table, Power Query and DAX functions. The Orders table was joined to the Products table in a one-to-many relationship. The Calendar table was also joined to the Orders table in a one-to-many relationship while the Customers table was joined to the CustomersFirstOrders table in a one-to-one relationship.
+
+![](data model.png)
+
+## Analysis and Visualizations
+
+
