@@ -38,8 +38,33 @@ Here's the link to my SQL [query](https://github.com/emmywritescode/SQL-Queries/
 ## Modelling
 The data was modelled with the appropriate primary key and foreign key relationships from the tables. Overall, there are three (3) dimensions tables and two (2) facts tables. Two tables created named ‘Calendar’ and ‘CustomerFirstOrders’ tables were generated using New Table, Power Query and DAX functions. The Orders table was joined to the Products table in a one-to-many relationship. The Calendar table was also joined to the Orders table in a one-to-many relationship while the Customers table was joined to the CustomersFirstOrders table in a one-to-one relationship.
 
-![](data model.png)
+![](data_model.png)
 
 ## Analysis and Visualizations
+The report comprises 6 pages
+1. Periodic Sales Report
+2. Revenue/Sales Trend and Forecast
+3. Customer Details Report
+4. Product Category and Subcategory Report
+5. Products by Sales
+6. Insights
+
+You can interact with the report here: _link coming soon_
+
+![](periodic_sales.png)
+
+Features:
+- The Filter icon removes current filters applied to the report.
+- The Direction arrow navigates to the next page.
+- The Web logo shows hidden links to my social handles.
+## Analysis
+Periodic Sales Report:
+![](periodic_sales.png)
+- The company generated over $109M in sales over the entire period with most sales coming from 2013 fiscal year.
+- Daily sales averaged between around $900 each day of the week and more than 31K transactions were made.
+![](revenue_trend.png)
+
+
+
 
 
