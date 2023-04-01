@@ -27,4 +27,10 @@ The following Power BI skills were also incorporated into this report:
 - Drill through – I created a drill through page to help users gain deeper insight and a better understanding of the underlying data.
 
 ## Data sourcing
-The Adventure Works 2019 database was used for this project. This fictional company’s database was created by Microsoft and can be downloaded [here] (https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2019.bak)
+The Adventure Works 2019 database was used for this project. This fictional company’s database was created by Microsoft and can be downloaded [here](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2019.bak).
+
+## Data transformation
+The database was imported into SQL Server Management Studio and then queried to obtain the needed data from the schemas and tables. The following schemas and Tables were queried: 
+Sales.SalesOrderheader, Sales.SalesOrderDetail, Sales.Customer, Sales.SalesTerritory, Purchasing.ShipMethod, Production.Product, Production.ProductCategory, and Production.ProductSubcategory.
+
+Here's the link to my SQL query.
