@@ -13,6 +13,7 @@ The following SQL Server Management Studio skills were incorporated:
 - Importing a database.
 - Generating a database diagram.
 - Data wrangling with SQL.
+
 The following Power BI skills were also incorporated into this report:
 - DAX – I created DAX columns to use as a primary date column, then extracted columns including Date, Day, Day Number, Month Number, Quarter, Year and Month columns.
 - Modelling – Three tables were loaded into Power BI (1 dimension table and 2 facts table) while the Calendar and ‘CustomerFirstOrders’ Tables were generated using the New Table, Power Query and DAX functions. The data was modelled with appropriate primary key and foreign key relationships.
