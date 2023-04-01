@@ -51,18 +51,24 @@ The report comprises 6 pages
 
 You can interact with the report here: _link coming soon_
 
-![](periodic_sales.png)
-
-Features:
+**Features:**
 - The Filter icon removes current filters applied to the report.
 - The Direction arrow navigates to the next page.
-- The Web logo shows hidden links to my social handles.
+- The Web icon shows hidden links to my social handles.
 ## Analysis
-Periodic Sales Report:
+**Periodic Sales Report:**
+
 ![](periodic_sales.png)
 - The company generated over $109M in sales over the entire period with most sales coming from 2013 fiscal year.
-- Daily sales averaged between around $900 each day of the week and more than 31K transactions were made.
-![](revenue_trend.png)
+- Daily sales averaged between around $900 each day of the week and more than 31K total transactions were made.
+
+**Customer Details Report:**
+
+![](customer_details.png)
+- More than 19K customers made purchase from the company.
+- Customers placed more orders online than offline.
+- Most customers are from Southwest territory.
+- Customers increased over the years but mostly in 2013.
 
 
 
