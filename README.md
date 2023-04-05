@@ -77,6 +77,12 @@ You can interact with the report [here](): _link coming soon_
 - In most territories, the most popular products were from the Bikes category.
 - Products in the Road Bikes subcategory generated the most sales at $44M while Chains generated the least at just $9K.
 
+**Products Report:**
+
+![](products_report.png)
+- The product with the highest turnover rate was _Mountain-200 Black, 38_ which generated $4.4M in sales while _LL Road Seat/Saddle_ had the lowest turnover rate at $163.
+- The most popular product was _AWC Logo Cap_ which sold 8.3K units while the least popular was _LL Touring Frame-Blue, 58_ which sold only 4 units.
+
 
 
 
