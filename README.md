@@ -46,7 +46,7 @@ The report comprises 6 pages
 2. Revenue/Sales Trend and Forecast
 3. Customer Details Report
 4. Products Category and Subcategory Report
-5. Products by Sales and Quantity
+5. Products Report
 6. Insights
 
 You can interact with the report [here](): _link coming soon_
