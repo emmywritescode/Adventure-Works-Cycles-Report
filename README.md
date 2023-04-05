@@ -4,10 +4,10 @@
 This is a Power BI project on Adventure Works 2019 sample database, which is a fictional company’s database created by Microsoft for educational and testing purposes. The goal of the project is to identify products with the highest and lowest turnover rate, observe yearly overall sales, and identify customer trends and preference.
 ## Problem statement
 To use the business database to identify:
-- Which products have the highest turnover rate.
-- Which products have the lowest turnover rate.
-- If overall sales increased yearly.
-- Customer’s growth trend over the years and shopping preference.
+- Which products had the highest turnover rate and which had the lowest.
+- Which product was the most popular and which was the least popular.
+- Customers most preferred means of placing orders.
+- Which continent and territory generated the most sales.
 ## Skills demonstrated
 The following SQL Server Management Studio skills were incorporated:
 - Importing a database.
@@ -45,11 +45,11 @@ The report comprises 6 pages
 1. Periodic Sales Report
 2. Revenue/Sales Trend and Forecast
 3. Customer Details Report
-4. Product Category and Subcategory Report
-5. Products by Sales
+4. Products Category and Subcategory Report
+5. Products by Sales and Quantity
 6. Insights
 
-You can interact with the report here: _link coming soon_
+You can interact with the report [here](): _link coming soon_
 
 **Features:**
 - The Filter icon removes current filters applied to the report.
@@ -69,6 +69,13 @@ You can interact with the report here: _link coming soon_
 - Customers placed more orders online than offline.
 - Most customers are from Southwest territory.
 - Customers increased over the years but mostly in 2013.
+
+**Products Category and Subcategory Report:**
+
+![](products_category.png)
+- Products in the Bikes category generated the most sales totalling $95M while Accessories generated the least sales at just $1M.
+- In most territories, the most popular products were from the Bikes category.
+- Products in the Road Bikes subcategory generated the most sales at $44M while Chains generated the least at just $9K.
 
 
 
