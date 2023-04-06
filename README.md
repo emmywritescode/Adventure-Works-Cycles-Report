@@ -55,14 +55,14 @@ You can interact with the report [here](): _link coming soon_
 - The Filter icon removes current filters applied to the report.
 - The Direction arrow navigates to the next page.
 - The Web icon shows hidden links to my social handles.
-## Analysis
-**Periodic Sales Report:**
+
+### Periodic Sales Report:
 
 ![](periodic_sales.png)
 - The company generated over $109M in sales over the entire period with most sales coming from 2013 fiscal year.
 - Daily sales averaged between around $900 each day of the week and more than 31K total transactions were made.
 
-**Customer Details Report:**
+### Customer Details Report:
 
 ![](customer_details.png)
 - More than 19K customers made purchase from the company.
@@ -70,18 +70,20 @@ You can interact with the report [here](): _link coming soon_
 - Most customers are from Southwest territory.
 - Customers increased over the years but mostly in 2013.
 
-**Products Category and Subcategory Report:**
+### Products Category and Subcategory Report:
 
 ![](products_category.png)
 - Products in the Bikes category generated the most sales totalling $95M while Accessories generated the least sales at just $1M.
 - In most territories, the most popular products were from the Bikes category.
 - Products in the Road Bikes subcategory generated the most sales at $44M while Chains generated the least at just $9K.
 
-**Products Report:**
+### Products Report:
 
-![](products_report.png)
+![](products_repo.png)
 - _Mountain-200 Black, 38_ generated the highest sales at $4.4M while _LL Road Seat/Saddle_ had the least sales at only $163.
 - The most popular product was _AWC Logo Cap_ which sold 8.3K units while the least popular was _LL Touring Frame-Blue, 58_ which sold only 4 units.
+
+## Conclusion and Recommendations
 
 
 
