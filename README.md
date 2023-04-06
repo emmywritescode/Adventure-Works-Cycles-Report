@@ -4,7 +4,7 @@
 This is a Power BI project on Adventure Works 2019 sample database, which is a fictional company’s database created by Microsoft for educational and testing purposes. The goal of the project is to identify products with the highest and lowest turnover rate, observe yearly overall sales, and identify customer trends and preference.
 ## Problem statement
 To use the business database to identify:
-- Which products had the highest turnover rate and which had the lowest.
+- Which product generated the most sales and which generated the least.
 - Which product was the most popular and which was the least popular.
 - Customers most preferred means of placing orders.
 - Which continent and territory generated the most sales.
@@ -80,8 +80,10 @@ You can interact with the report [here](): _link coming soon_
 **Products Report:**
 
 ![](products_report.png)
-- The product with the highest turnover rate was _Mountain-200 Black, 38_ which generated $4.4M in sales while _LL Road Seat/Saddle_ had the lowest turnover rate at $163.
+- _Mountain-200 Black, 38_ generated the highest sales at $4.4M while _LL Road Seat/Saddle_ had the least sales at only $163.
 - The most popular product was _AWC Logo Cap_ which sold 8.3K units while the least popular was _LL Touring Frame-Blue, 58_ which sold only 4 units.
+
+
 
 
 
