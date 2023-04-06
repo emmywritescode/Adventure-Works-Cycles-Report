@@ -36,7 +36,7 @@ Sales.SalesOrderheader, Sales.SalesOrderDetail, Sales.Customer, Sales.SalesTerri
 Here's the link to my SQL [query](https://github.com/emmywritescode/SQL-Queries/blob/main/Adventure%20Works%20Cycles%202019.sql).
 
 ## Modelling
-The data was modelled with the appropriate primary key and foreign key relationships from the tables. Overall, there are three (3) dimensions tables and two (2) facts tables. Two tables created named ‘Calendar’ and ‘CustomerFirstOrders’ tables were generated using New Table, Power Query and DAX functions. The Orders table was joined to the Products table in a one-to-many relationship. The Calendar table was also joined to the Orders table in a one-to-many relationship while the Customers table was joined to the CustomersFirstOrders table in a one-to-one relationship.
+The model uses a comination of the star-schema and a normalized schema. Overall, there are three (3) dimensions tables and two (2) facts tables. Two tables created named ‘Calendar’ and ‘CustomerFirstOrders’ tables were generated using New Table, Power Query and DAX functions. The Orders table was joined to the Products table in a one-to-many relationship. The Calendar table was also joined to the Orders table in a one-to-many relationship while the Customers table was joined to the CustomersFirstOrders table in a one-to-one relationship.
 
 ![](data_model.png)
 
@@ -79,11 +79,16 @@ You can interact with the report [here](): _link coming soon_
 
 ### Products Report:
 
-![](products_repo.png)
+![](products_report.png)
 - _Mountain-200 Black, 38_ generated the highest sales at $4.4M while _LL Road Seat/Saddle_ had the least sales at only $163.
 - The most popular product was _AWC Logo Cap_ which sold 8.3K units while the least popular was _LL Touring Frame-Blue, 58_ which sold only 4 units.
 
-## Conclusion and Recommendations
+## Conclusion
+- North America generated the highest amount in overall sales at $79.4M which is more than the other two continents combined.
+- The company sold 266 different products through the period.
+
+## Recommendations
+Further analysis should be carried out to figure out how the worst performing products can be made to generate sales or discontinued. A deeper dive into the customers data could also reveal if they would appreciate being upsold on some of the company's worst performing products.
 
 
 
