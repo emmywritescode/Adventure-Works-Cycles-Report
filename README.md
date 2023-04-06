@@ -85,7 +85,7 @@ You can interact with the report [here](): _link coming soon_
 
 ## Conclusion
 - North America generated the highest amount in overall sales at $79.4M which is more than the other two continents combined.
-- The company sold 266 different products through the period.
+- The company sold 266 different products throughout the period.
 
 ## Recommendations
 Further analysis should be carried out to figure out how the worst performing products can be made to generate sales or discontinued. A deeper dive into the customers data could also reveal if they would appreciate being upsold on some of the company's worst performing products.
