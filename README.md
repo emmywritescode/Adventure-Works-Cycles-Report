@@ -1,7 +1,7 @@
 # Adventure Works Cycles Sales Report
 ![](intro.png)
 ## Introduction
-This is a Power BI project on Adventure Works 2019 sample database, which is a fictional company’s database created by Microsoft for educational and testing purposes. The goal of the project is to identify products which generated the highest and lowest sales, observe yearly overall sales, and identify customer trends and preferences.
+This is a Power BI project on Adventure Works 2019 sample database, which is a fictional company’s database created by Microsoft for educational and testing purposes. The goal of the project is to identify products which generated the highest and lowest sales, observe the popularity of products, and identify customer trends and preferences.
 ## Problem statement
 To use the business database to identify:
 - Which product generated the most sales and which generated the least.
