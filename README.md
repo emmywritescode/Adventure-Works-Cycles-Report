@@ -1,7 +1,7 @@
-# Adventure Works Cycles Report
+# Adventure Works Cycles Sales Report
 ![](intro.png)
 ## Introduction
-This is a Power BI project on Adventure Works 2019 sample database, which is a fictional company’s database created by Microsoft for educational and testing purposes. The goal of the project is to identify products with the highest and lowest turnover rate, observe yearly overall sales, and identify customer trends and preference.
+This is a Power BI project on Adventure Works 2019 sample database, which is a fictional company’s database created by Microsoft for educational and testing purposes. The goal of the project is to identify products which generated the highest and lowest sales, observe yearly overall sales, and identify customer trends and preferences.
 ## Problem statement
 To use the business database to identify:
 - Which product generated the most sales and which generated the least.
@@ -49,7 +49,7 @@ The report comprises 6 pages
 5. Products Report
 6. Insights
 
-You can interact with the report [here](): _link coming soon_
+You can interact with the full report [here](https://app.powerbi.com/view?r=eyJrIjoiMGRmYTYyMDUtMmY5OS00NDQzLWJiOTQtMGYzYWM4NDgxMTM1IiwidCI6ImQ4NzlkOWE0LTZmODEtNDU4NS1iYWJjLWM4OGZjMzBmZTc3YiJ9).
 
 **Features:**
 - The Filter icon removes current filters applied to the report.
