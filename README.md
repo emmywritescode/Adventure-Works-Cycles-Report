@@ -24,7 +24,7 @@ The following Power BI skills were also incorporated into this report:
 - Quick measure – I used Quick measure to create custom calculations faster.
 - Page navigation & Buttons – I used buttons to aid page navigation and improve user interactivity.
 - Forecast – I used Forecast to predict sales trend and patterns for the following year.
-- Drill through – I created a drill through page to help users gain deeper insight and a better understanding of the underlying data.
+- Drill through – I created a drill through page to help users gain deeper insight and have a better understanding of the underlying data.
 
 ## Data sourcing
 The Adventure Works 2019 database was used for this project. This fictional company’s database was created by Microsoft and can be downloaded [here](https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorks2019.bak).
