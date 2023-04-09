@@ -36,7 +36,7 @@ Sales.SalesOrderheader, Sales.SalesOrderDetail, Sales.Customer, Sales.SalesTerri
 Here's the link to my SQL [query](https://github.com/emmywritescode/SQL-Queries/blob/main/Adventure%20Works%20Cycles%202019.sql).
 
 ## Modelling
-The model uses a comination of the star-schema and a normalized schema. Overall, there are three (3) dimensions tables and two (2) facts tables. Two tables created named ‘Calendar’ and ‘CustomerFirstOrders’ tables were generated using New Table, Power Query and DAX functions. The Orders table was joined to the Products table in a one-to-many relationship. The Calendar table was also joined to the Orders table in a one-to-many relationship while the Customers table was joined to the CustomersFirstOrders table in a one-to-one relationship.
+The model is a star schema. Overall, there are three (4) dimensions tables and two (1) fact table. Two tables created named ‘Calendar’ and ‘CustomerFirstOrders’ tables were generated using New Table, Power Query and DAX functions. The Orders table (fact table) was joined to the Products table in a one-to-many relationship. The Calendar table was also joined to the Orders table in a one-to-many relationship while the Customers table was joined to the CustomersFirstOrders table in a one-to-one relationship and to the orders table in a one-to-many relationship.
 
 ![](data_model.png)
 
