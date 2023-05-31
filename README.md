@@ -15,7 +15,7 @@ The following SQL Server Management Studio skills were incorporated:
 - Data wrangling with SQL.
 
 The following Power BI skills were also incorporated into this report:
-- DAX – I created DAX columns to use as a primary date column, then extracted columns including Date, Day, Day Number, Month Number, Quarter, Year and Month columns.
+- DAX – I created DAX columns to use as a primary date table, then extracted columns including Date, Day, Day Number, Month Number, Quarter, Year and Month columns.
 - Modelling – Three tables were loaded into Power BI (1 dimension table and 2 facts table) while the Calendar and ‘CustomerFirstOrders’ Tables were generated using the New Table, Power Query and DAX functions. The data was modelled with appropriate primary key and foreign key relationships.
 - Filters – I used the Filter pane to filter out Top and Bottom Products subcategories by sales to give insight to the best and worst performing products.
 - Slicers – I used Slicers to create a more dynamic report that filters result through years and order continents.
