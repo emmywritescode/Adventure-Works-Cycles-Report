@@ -88,7 +88,7 @@ You can interact with the full report [here](https://app.powerbi.com/view?r=eyJr
 - The company sold 266 different products throughout the period.
 
 ## Recommendations
-Further analysis should be carried out to figure out how the worst performing products can be made to generate sales or discontinued. A deeper dive into the customers data could also reveal if they would appreciate being upsold on some of the company's worst performing products.
+Further analysis should be carried out to figure out how the worst performing products can be made to generate sales or discontinued. A deeper dive into the customers data could also reveal if they would appreciate being upsold on some of the company's worst-performing products.
 
 
 
